@@ -1,5 +1,3 @@
-<img src="https://media.giphy.com/media/OkJat1YNdoD3W/giphy.gif" width="100%">
-
 # Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  
 
 I'm Alex, a web developper located in Orléans, France. Specialized in JavaScript with React.js as front-end framework / library (or whatever) and Node.js & Express as Back-end framework.<br/>
