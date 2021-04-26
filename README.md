@@ -1,4 +1,4 @@
-<img src="https://dribbble.com/shots/2432051-Welcome-Cel-Animation" width="100%">
+<img src="https://media.giphy.com/media/OkJat1YNdoD3W/giphy.gif" width="100%">
 
 # Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  
 
