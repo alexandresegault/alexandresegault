@@ -6,7 +6,7 @@ I'm Alexandre Segault, a web developper located in Orléans, France. Specialized
 ## 🧰 Toolbox 
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40px">
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width"40px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40px">
 <img src ="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_kivy_icon_130489.png" width="40px">
 <img src ="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40px">
 <img src ="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40px">
