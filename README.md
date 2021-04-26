@@ -9,11 +9,12 @@ I did a formation at the Wild Code School in remote for 5 months, during this ti
 All of them were realized with the SCRUM method
 
 Currently learning python 🤓🐍 
-
+<br/>
 ## 🔧 Toolbox 
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40px"><img src ="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_kivy_icon_130489.png" width="40px"><img src ="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40px"><img src ="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40px"><img src ="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40px"><img src ="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="40px"><img src ="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40px"><img src ="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_kivy_icon_130489.png" width="40px"><img src ="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40px"><img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40px"><img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" width="40px">
-
+<br/>
+<br/>
 
 ## &#x1f4c8; GitHub Stats
 
