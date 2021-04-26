@@ -5,3 +5,4 @@ I'm Alexandre Segault, a web developper located in Orléans, France. Specialized
 ---
 ## 🧰 Toolbox 
 
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40px">
