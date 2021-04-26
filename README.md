@@ -18,7 +18,7 @@ Currently learning python 🤓🐍
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/alexandresegault">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandresegault&hide=css,html&hide_border=true&title_color=d6be35&text_color=c9cacc&icon_color=d6be35&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandresegault&hide=css,html&hide_border=true&layout=compact&title_color=d6be35&text_color=c9cacc&icon_color=d6be35&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/alexandresegault">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=alexandresegault&show_icons=true&hide_border=true&line_height=27&count_private=true&title_color=d6be35&text_color=ffffff&icon_color=d6be35&bg_color=1d1f21" alt="Alex's GitHub Stats" />
