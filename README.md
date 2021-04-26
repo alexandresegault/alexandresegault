@@ -8,10 +8,10 @@ I did a formation at the Wild Code School in remote for 5 months, during this ti
 - Save My FroggyDays
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexandresegault&repo=remote-js-202011-froggy-devs" alt="https://github.com/alexandresegault/github-readme-stats">
 
-- Minimal (This project is private because it's a project for a client)</br>
+- Minimal (This project is private because it's a client's project so impossible to show the stats)</br>
 Techologies used :
-<img src ="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="30px"><img src ="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="30px"><img src ="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30px"><img src ="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40px">
-<img src ="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40px">
+<img align="center" src ="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="30px"><img align="center" src ="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="30px"><img align="center" src ="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30px"><img align="center" src ="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40px">
+
 
 
 All of them were realized with the SCRUM method
