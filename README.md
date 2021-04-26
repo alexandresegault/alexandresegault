@@ -17,4 +17,9 @@ Currently learning python 🤓🐍
 
 ## My Github stats 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandresegault&hide=java,html,css&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandresegault&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/alexandresegault">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandresegault&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/alexandresegault">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandresegault&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
