@@ -2,9 +2,12 @@
 
 I'm Alex, a web developper located in Orléans, France. Specialized in JavaScript with React.js as front-end framework / library (or whatever) and Node.js & Express as Back-end framework.<br/>
 I did a formation at the Wild Code School in remote for 5 months, during this time I did 3 main projects in team :
-- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexandresegault&repo=shakeItYourself" alt="https://github.com/alexandresegault/github-readme-stats">
-- <a href="https://github.com/alexandresegault/remote-js-202011-froggy-devs">Save My FroggyDays</a>
+- Shake it Yourself
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexandresegault&repo=shakeItYourself" alt="https://github.com/alexandresegault/github-readme-stats">
+- Save My FroggyDays
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexandresegault&repo=remote-js-202011-froggy-devs" alt="https://github.com/alexandresegault/github-readme-stats">
 - Minimal
+
 
 All of them were realized with the SCRUM method
 
