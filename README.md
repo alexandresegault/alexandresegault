@@ -13,10 +13,7 @@ Techologies used :
 <img align="center" src ="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="30px"><img align="center" src ="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="30px"><img align="center" src ="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30px">
 
 
-
-All of them were realized with the SCRUM method
-
-Currently learning python 🤓🐍 
+#### Currently learning python 🤓🐍 
 <br/>
 ## 🔧 Toolbox 
 
