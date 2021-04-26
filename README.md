@@ -8,7 +8,7 @@ I followed a five month course (Wild Code School), during this time I did 3 main
 
 All of them were realized with the SCRUM method
 
-<p style="12px">Currently learning python 🤓🐍</p>
+<p style="15px">Currently learning python 🤓🐍</p>
 
 ## 🧰 Toolbox 
 
