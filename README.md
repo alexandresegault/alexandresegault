@@ -12,10 +12,10 @@ I did a formation at the Wild Code School in remote for 5 months, during this ti
 Techologies used :
 <img align="center" src ="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="30px"><img align="center" src ="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="30px"><img align="center" src ="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30px">
 </br>
+<br/>
+<br/>
 
 #### Currently learning python 🤓🐍 
-
-<br/>
 
 ## 🔧 Toolbox 
 
