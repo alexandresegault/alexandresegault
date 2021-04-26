@@ -9,8 +9,8 @@ I did a formation at the Wild Code School in remote for 5 months, during this ti
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexandresegault&repo=remote-js-202011-froggy-devs" alt="https://github.com/alexandresegault/github-readme-stats">
 
 - Minimal
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexandresegault&repo=remoteFR-R2dwild-P3-vracmini-back" alt="https://github.com/alexandresegault/remoteFR-R2dwild-P3-vracmini-back">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexandresegault&repo=remoteFR-R2dwild-P3-vracmini-front" alt="https://github.com/alexandresegault/remoteFR-R2dwild-P3-vracmini-front">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexandresegault&repo=remoteFR-R2dwild-P3-vracmini-back" alt="https://github.com/alexandresegault/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexandresegault&repo=remoteFR-R2dwild-P3-vracmini-front" alt="https://github.com/alexandresegault/github-readme-stats">
 
 
 All of them were realized with the SCRUM method
