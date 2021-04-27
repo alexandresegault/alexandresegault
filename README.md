@@ -4,15 +4,18 @@ I'm Alex, a web developper located in Orléans, France. Specialized in JavaScrip
 I did a formation at the Wild Code School in remote for 5 months, during this time I did 3 main projects in team :
 ### - Shake it Yourself
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexandresegault&repo=shakeItYourself&hide_border=true&line_height=27&title_color=d6be35&text_color=ffffff&icon_color=d6be35&bg_color=1d1f21" alt="https://github.com/alexandresegault/github-readme-stats">
+#HTML      #CSS      #JavaScript
 
 ### - Save My FroggyDays
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexandresegault&repo=remote-js-202011-froggy-devs&hide_border=true&line_height=27&title_color=d6be35&text_color=ffffff&icon_color=d6be35&bg_color=1d1f21" alt="https://github.com/alexandresegault/github-readme-stats">
+#React
 
 ### - Minimal 
 <a href="https://github.com/alexandresegault">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexandresegault&repo=remoteFR-R2dwild-P3-vracmini-front&hide_border=true&line_height=27&title_color=d6be35&text_color=ffffff&icon_color=d6be35&bg_color=1d1f21" alt="https://github.com/alexandresegault/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexandresegault&repo=remoteFR-R2dwild-P3-vracmini-back&hide_border=true&line_height=27&title_color=d6be35&text_color=ffffff&icon_color=d6be35&bg_color=1d1f21" alt="https://github.com/alexandresegault/github-readme-stats">
 </a>
+#React   #Node.js/Express   #SQL
 </br>
 </br>
 </br>
