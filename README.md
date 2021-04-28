@@ -2,7 +2,9 @@
 
 I'm Alex, a web developper located in Orléans, France. Specialized in JavaScript with React.js as front-end framework / library (or whatever) and Node.js & Express as Back-end framework.
 </br>
+</br>
 You can find me on Linkedin here => <a href="https://www.linkedin.com/in/alexandresegault"><img align="center" width='35px' src='https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg'></a>
+</br>
 </br>
 I did a formation at the Wild Code School in remote for 5 months, during this time I did 3 main projects in team :
 ### - Shake it Yourself
